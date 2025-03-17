@@ -36,6 +36,8 @@ cfg.obj_list = [
     "kettle"     , "scissors"    , "timeclock"     ,
     "wood"       , "xbox"        , "yellow_bowl"   ,
     "toy_cabinet", "cabinet_door", "cabinet_drawer",
+    "disk_02"     , "sheet_02"   ,
+
 ]
 
 cfg.gs_model_dict["background"]     = "scene/s2r2025/point_cloud.ply"
@@ -44,7 +46,9 @@ cfg.gs_model_dict["box_disk"]       = "s2r2025/box.ply"
 cfg.gs_model_dict["box_sheet"]      = "s2r2025/box.ply"
 cfg.gs_model_dict["carton_01"]      = "s2r2025/carton_01.ply"
 cfg.gs_model_dict["disk_01"]        = "s2r2025/disk_01.ply"
+cfg.gs_model_dict["disk_02"]        = "s2r2025/disk_01.ply"
 cfg.gs_model_dict["sheet_01"]       = "s2r2025/sheet_01.ply"
+cfg.gs_model_dict["sheet_02"]       = "s2r2025/sheet_01.ply"
 cfg.gs_model_dict["apple"]          = "s2r2025/apple.ply"
 cfg.gs_model_dict["book"]           = "s2r2025/book.ply"
 cfg.gs_model_dict["cup"]            = "s2r2025/cup.ply"
